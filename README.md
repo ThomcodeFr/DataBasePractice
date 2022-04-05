@@ -29,4 +29,3 @@ Règles de gestion :
 - Un emprunteur peut emprunter plusieurs livres simultanément
 
 Faire pour cet exemple un modèle MCD, MLD, MPD
-ù
