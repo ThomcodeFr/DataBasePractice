@@ -31,10 +31,10 @@ Règles de gestion :
 Faire pour cet exemple un modèle MCD, MLD, MPD
 
 # Rendus du projet 
-![Rendu MCD](/MCD.jpg 'rendu MCD')
+![Rendu MCD](/MCD.jpeg 'rendu MCD')
 
-![Rendu MLD](/MLD.jpg 'rendu MLD')
+![Rendu MLD](/MLD.jpeg 'rendu MLD')
 
-![Rendu MPD](/MPD.jpg 'rendu MPD')
+![Rendu MPD](/MPD.jpeg 'rendu MPD')
 
-![Rendu PHPMyAdmin](/PHPMyAdmin.jpg 'rendu PHPMyAdmin')
+![Rendu PHPMyAdmin](/PHPMyAdmin.png 'rendu PHPMyAdmin')
