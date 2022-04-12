@@ -29,3 +29,12 @@ Règles de gestion :
 - Un emprunteur peut emprunter plusieurs livres simultanément
 
 Faire pour cet exemple un modèle MCD, MLD, MPD
+
+# Rendus du projet 
+![Rendu MCD](/MCD.jpg 'rendu MCD')
+
+![Rendu MLD](/MLD.jpg 'rendu MLD')
+
+![Rendu MPD](/MPD.jpg 'rendu MPD')
+
+![Rendu PHPMyAdmin](/PHPMyAdmin.jpg 'rendu PHPMyAdmin')
